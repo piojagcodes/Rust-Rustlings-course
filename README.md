@@ -1,2 +1,2 @@
-# Rust-Rustlings-course
+# Rustlings
 Solutions for finishing Rustlings
